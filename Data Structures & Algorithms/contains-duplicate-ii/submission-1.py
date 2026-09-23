@@ -9,4 +9,4 @@ class Solution:
             if nums[r] in window:
                 return True
             window.add(nums[r])
-        return False
+        return False  
